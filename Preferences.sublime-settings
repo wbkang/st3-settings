@@ -1,0 +1,13 @@
+{
+	"detect_indentation": true,
+	"dpi_scale": 1.25,
+	"font_size": 11,
+    "font.face": "Ubuntu Mono",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"remember_open_files": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
